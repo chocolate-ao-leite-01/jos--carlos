@@ -1,0 +1,13 @@
+{
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "git.confirmSync": false,
+    "settingsSync.ignoredExtensions": [
+        
+    ],
+    "gitlens.views.contributors.files.layout": "list",
+    "settingsSync.ignoredSettings": [
+    
+    ]
+}
